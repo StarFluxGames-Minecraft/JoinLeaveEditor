@@ -1,0 +1,12 @@
+ name: JoinLeaveEditor
+ version: 1.0
+ description: Edit the player join / leave messages
+ author: StarFluxGames
+ authors: [StarFluxGames] 
+ website: http://starfluxgames.com/
+ 
+ main: com.starfluxgames.joinleaveeditor.Main
+ 
+ commands:
+   jlereload:
+     description: Reloads JLE Config
